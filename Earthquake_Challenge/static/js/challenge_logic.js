@@ -226,6 +226,3 @@ legend.onAdd = function() {
   tectonicPlates.addTo(map);
 });
 
-// Amanda Thomson
-// Module 13 Challenge
-// The George Washington University
